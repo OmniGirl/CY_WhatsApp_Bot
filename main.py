@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 # 🔹 Your bot responses
 demo_responses = {
-    "hi": "👋 Hello! Welcome to CY.COM \n It is Easter! We have amazing deals for everyone of you. Hurry now and visit our stores. Offers ends soons!\n\Choose an option:\n1️⃣ Services\n2️⃣ Pricing\n3️⃣ Contact\n4️⃣ About Us",
+    "hi": "👋 Hello! Welcome to CY.COM \n It is Easter! We have amazing deals for everyone of you. Hurry now and visit our stores. Offers ends soons!\nChoose an option:\n1️⃣ Services\n2️⃣ Pricing\n3️⃣ Contact\n4️⃣ About Us",
     "1": "🚀 Our services include:\n• Phone Accesories\n• Phone Repairs\n• Latest Gadgets\n\nReply 0️⃣ to go back.",
     "2": "💼 Our pricing is flexible based on your needs.\n\nVisit our website at www.cygroup.ng\n\nReply 0️⃣ to go back.",
     "3": "📞 Contact us at:\nETAAGBO OFFICE: 07038323998\nETIM EDEM OFFICE: 08139252810\n\nReply 0️⃣ to go back.",
